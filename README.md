@@ -1,0 +1,1 @@
+# syracuse-vacancy-data
